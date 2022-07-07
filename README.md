@@ -9,3 +9,10 @@ Cursei o ensino técnico em eletrônica na [Fundação Liberato](https://www.lib
 
 Na área da ciências de dados domino a exploração, o tratamento, a análise e a visualização. Também realizo modelos de machine learning e gosto de buscar formas simples de explicar conceitos analíticos complexos. Determinado a conhecer cada vez mais o campo da ciências de dados tenho atualmente me especializado com cursos livres (por favor, veja o meu diretório ciências de dados para avaliar os meus projetos ou compartilhar informações).   
 
+### Principais Repositórios
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
