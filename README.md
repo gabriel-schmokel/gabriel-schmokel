@@ -1,6 +1,6 @@
 ## Gabriel Schmökel
 
-*| Bacharelado em Física - UFRGS | Cientista de Dados | Técnico em Eletrônica |* :bug:
+*| Bacharelado em Física - UFRGS | Cientista de Dados | Técnico em Eletrônica |* :bug
 
 
 ### Sobre mim 
