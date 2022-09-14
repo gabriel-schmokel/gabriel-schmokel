@@ -11,6 +11,9 @@ Na área da ciências de dados domino a exploração, o tratamento, a análise e
 
 ### Principais Repositórios
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-schmokel&repo=data_science&theme=dark)](https://github.com/gabriel-schmokel/data_science)
 
 ### Contato
