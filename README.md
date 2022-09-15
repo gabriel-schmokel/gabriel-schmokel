@@ -1,6 +1,6 @@
 ## Gabriel Schmökel
 
-* | Data Science and Analytics - USP/Esalq | Bacharelado em Física - UFRGS | Cientista de Dados | Técnico em Eletrônica |* :bug:
+| Data Science and Analytics - USP/Esalq | Bacharelado em Física - UFRGS | Cientista de Dados | Técnico em Eletrônica | :bug:
 
 
 ### Sobre mim 
